@@ -1,0 +1,41 @@
+. "Uno de mis días más productivos fue cuando tiré 1000 líneas de código." – Ken Thompson
+. "Inspeccionar para prevenir defectos es bueno; Inspeccionar los defectos es un desperdicio". – Shigeo Shingo
+
+3. "Medir el progreso de la programación por líneas de código es como medir el progreso de la construcción de aviones en términos de peso". – Bill Gates
+
+4. "Cualquiera puede escribir código que la computadora entienda. Los buenos programadores escriben código que los humanos entienden". – Martin Fowler
+
+5. "No es el lenguaje de programación lo que define al programador, sino su lógica." – David Ribeiro Guilherme
+
+6. "Siempre codifica como si el tipo que termina apegándose a tu código fuera un psicópata violento que sabe dónde vives". - Martin Golding
+
+7. "A veces vale la pena quedarse en la cama el lunes en lugar de pasar el resto de la semana depurando el código del lunes". – Christopher Thompson
+
+8. "Antes de que el software pueda ser reutilizable, primero debe ser utilizable". – Ralph Johnson
+
+11. "Los programadores y artistas son los únicos profesionales que tienen su profesión como hobby." – Rafael Lain
+
+12. "Un lenguaje no hace que tu código sea bueno, los buenos programadores hacen que tu código sea bueno." – Samuel Custódio
+
+13. "Los buenos programadores saben qué escribir. Los mejores saben qué reescribir." – Eric Raymond
+
+14. "Muchos de ustedes están familiarizados con las virtudes de un programador. Hay tres, por supuesto: pereza, impaciencia y arrogancia. "- Larry Wall
+
+15. "En teoría, la teoría y la práctica son iguales. En la práctica, no lo son". - Yoggi Berra
+
+16. "Si la depuración es el proceso de eliminar errores del software, entonces la programación debería ser el proceso de colocarlos". – Edsger Dijkstra
+17. "Puedes crear cualquier cosa: solo escribe" – C. S. Lewis
+
+18. "El genio es 1% inspiración y 99% transpiración." – Thomas Edson
+
+19. "Saber no es suficiente, debemos aplicar. La disposición no es suficiente, debemos hacerlo". – Johann Wolfgang von Goethe
+
+20. "No es la posición que ocupas lo que importa, sino la participación y el compromiso que tienes." – Edelzia Oliveira
+
+21. "Solo hay una manera de evitar la crítica: no hacer nada, no hablar, y no ser nada". – Aristóteles
+
+22. "Nuestros fracasos son a veces más fructíferos que los éxitos." – Henry Ford
+
+23. "El secreto del éxito es hacer cosas ordinarias inusualmente bien." – John D. Rockefeller Jr.
+
+24. "No te preocupes si no funciona correctamente. Si todo sucediera, estarías sin trabajo". – Ley de Mosher
